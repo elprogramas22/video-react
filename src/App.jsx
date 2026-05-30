@@ -1,7 +1,7 @@
 import Video from "./components/Video.jsx"
 import xdlmao from "./assets/xdlmao.mp4"
 import { useState } from "react"
-import "./app.css"  
+import "./App.css"  
 function App() {
   const[recibimiento, setRecibimiento] = useState(0)
 
